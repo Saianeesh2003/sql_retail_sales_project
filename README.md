@@ -2,7 +2,6 @@
 
 A clean, beginner-friendly SQL project that demonstrates **database setup, data cleaning, EDA, and business-driven analysis** on retail sales data.
 
-> **Tech/Dialect:** PostgreSQL (compatible with other SQL engines; MySQL variants noted where needed)
 
 ---
 
